@@ -1,0 +1,24 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision f27dba4baf5f46fc5d3276b4e1ba863e242d7ba3)
++++ index.html	(revision )
+@@ -23,6 +23,7 @@
+         <ul>
+             <li><a class="buttons github" href="https://github.com/technology-info">Кнопка</a></li>
+         </ul>
++        <p><img src="images/P8090592.JPG.jpg"" width="150" height="180"></p>
+ 
+     </header>
+ 
+@@ -64,7 +65,7 @@
+             <tr>
+ 
+             </tr></table>
+-        <p><img src="images/2171258471.jpg"" width="100" height="111" alt="Винни-Пух"></p>
++        <p><img src="images/2171258471.jpg"" width="150" height="180"></p>
+ 
+ 
+     </section>
